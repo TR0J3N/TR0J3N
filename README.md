@@ -2,7 +2,7 @@
 
 
 <a href="https://t.me/tr0j3n">
-      <img alt="Telegram" src="https://img.shields.io/static/v1?logo=telegram=label=Telegram&message=tr0j3n&color=blue" />
+      <img alt="Telegram" src="https://img.shields.io/static/v1?style=flat-square&logo=telegram&message=tr0j3n&color=blue" />
     </a>
 
 
