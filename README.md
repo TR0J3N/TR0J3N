@@ -1,5 +1,6 @@
 -👻✌🏻 Yo, I’m TR0J3N
 
+
 <a href="https://t.me/tr0j3n">
       <img alt="Telegram" src="https://img.shields.io/static/v1?label=Telegram&message=tr0j3n&color=blue" />
     </a>
@@ -14,7 +15,3 @@ Languages That I Used:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TR0J3N)](https://github.com/TR0J3N/github-readme-stats)
 
 
-
-<a href="https://github.com/TR0J3N/github-readme-stats/actions">
-      <img alt="Test Passing" src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" />
-    </a>
