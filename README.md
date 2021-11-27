@@ -7,7 +7,7 @@
 <a href="https://t.me/tr0j3n">
       <img alt="Telegram" src="https://img.shields.io/static/v1?logo=telegram&label=Telegram&message=tr0j3n&color=blue" />
     </a>
-<a href="https://instagram/t_r_o_j_3_n">
+<a href="https://www.instagram.com/t_r_o_j_3_n">
       <img alt="instagram" src="https://img.shields.io/static/v1?logo=instagram&label=Instagram&message=TROJEN&color=pink" />
     </a>
 
