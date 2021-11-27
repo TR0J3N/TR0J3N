@@ -7,3 +7,9 @@ GitHub Status:
 Languages That I Used:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TR0J3N)](https://github.com/TR0J3N/github-readme-stats)
+
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
