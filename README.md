@@ -11,7 +11,7 @@
       <img alt="instagram" src="https://img.shields.io/static/v1?logo=instagram&label=Instagram&message=TROJEN&color=pink" />
     </a>
 <a href="https://github.com/TR0J3N">
-      <img alt="github" src="https://img.shields.io/static/v1?logo=github&label=Github&message=TROJEN&color=white" />
+      <img alt="github" src="https://img.shields.io/static/v1?logo=github&label=Github&message=TR0J3N&color=white" />
     </a>
 
 GitHub Status:
