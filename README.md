@@ -13,3 +13,6 @@ Languages That I Used:
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
+<a href="https://github.com/TR0J3N/github-readme-stats/actions">
+      <img alt="Test Passing" src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" />
+    </a>
