@@ -4,7 +4,7 @@
 - [![Total Stars](https://img.shields.io/github/stars/TR0J3N.svg)](https://github.com/TR0J3N?tab=stars)
 - [![Repos](https://img.shields.io/static/v1?logo=apache&label=Repos&message=Here&color=red)](https://github.com/TR0J3N?tab=repositories)
 
-<a href="https://t.me/tr0j3n">
+<a href="https://t.me/troj3n">
       <img alt="Telegram" src="https://img.shields.io/static/v1?logo=telegram&label=Telegram&message=tr0j3n&color=blue" />
     </a>
 <a href="https://www.instagram.com/t_r_o_j_3_n">
